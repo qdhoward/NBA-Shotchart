@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { TopNavBar } from './TopNavBar';
-import '../styles/App.css';
+import '../index.css';
 
 class App extends Component {
   render() {
